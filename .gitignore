@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+dist/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Pretrained Weights
+*.bin
+*.pt
+*.pth
+*.safetensors
+
+# Data and CSVs
+*noteevents*.csv
